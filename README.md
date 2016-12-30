@@ -1,5 +1,5 @@
 # BellBird
-A clone of twitter... kindof
+A clone of twitter... kindof. It's built with React Native.
 
 TO START: 
 1). clone repo
